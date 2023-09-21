@@ -1,5 +1,5 @@
 # 💫 About Me:
-### <p align="center"> 3rd Year Electrical and Electronic Engineering (MEng) at Imperial College London </p>
+### <p align="center"> Final-Year Electrical and Electronic Engineering (MEng) at Imperial College London </p>
 
 
 # 🌐 Contact:
