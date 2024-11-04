@@ -1,5 +1,5 @@
 # 💫 About Me:
-### <p align="center"> Final-Year Electrical and Electronic Engineering (MEng) at Imperial College London </p>
+### <p align="center"> Electrical and Electronic Engineering Master's with First Class Honours from Imperial College London </p>
 
 
 # 🌐 Contact:
