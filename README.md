@@ -1,5 +1,7 @@
 # 💫 About Me:
+### <p align="center"> Quantitative Trading Strategy | BNP Paribas </p>
 ### <p align="center"> Electrical and Electronic Engineering Master's with First Class Honours from Imperial College London </p>
+
 
 
 # 🌐 Contact:
